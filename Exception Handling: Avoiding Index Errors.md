@@ -17,4 +17,4 @@ To write a Python program that handles an **IndexError** when trying to access a
 <img width="809" height="137" alt="image" src="https://github.com/user-attachments/assets/e4f0ae5d-6b1a-4785-8692-adfacc50bbdc" />
 
 ## Result
-<img width="809" height="137" alt="image" src="https://github.com/user-attachments/assets/e3e642a5-2a73-40ea-be37-de16ade2b0c3" />
+<img width="809" height="137" alt="image" src="https://github.com/user-attachments/assets/a218a6d0-8a44-420f-84f4-53afd58d84da" />
