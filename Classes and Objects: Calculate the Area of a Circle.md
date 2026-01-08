@@ -12,8 +12,10 @@ To write a Python program that calculates the **area of a circle** based on the 
 
 ## 🧾 Program
 
-Add code here
+<img width="804" height="303" alt="image" src="https://github.com/user-attachments/assets/05365e8b-a975-42eb-8cdd-ec8914b7f57b" />
 
 ## Output
+<img width="801" height="189" alt="image" src="https://github.com/user-attachments/assets/002b42bc-9a4a-4a9a-bdb6-4e6724155ff6" />
 
 ## Result
+<img width="801" height="189" alt="image" src="https://github.com/user-attachments/assets/e1874a08-7aac-4072-bf1e-fa95dbf15820" />
